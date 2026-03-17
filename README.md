@@ -8,3 +8,6 @@ Hola, soy Rebeca. Aquí comparto mis laboratorios y proyectos de análisis de da
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Gradio](https://img.shields.io/badge/-Gradio-3E8EFB?style=for-the-badge&logo=gradio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## Laboratorios
+### 1. Gradio
