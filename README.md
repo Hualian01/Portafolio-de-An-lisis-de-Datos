@@ -12,3 +12,6 @@ Hola, soy Rebeca. Aquí comparto mis laboratorios y proyectos realizados en la u
 ## Laboratorios
 ### [1. Gradio](https://github.com/Hualian01/Gradio)
 Este laboratorio explora la creación de interfaces web interactivas utilizando Gradio. El laboratorio demuestra cómo se pueden exponer las funcionalidades de aprendizaje automático a los usuarios finales mediante componentes web intuitivos.
+
+### [2. Estadística y Probabilidad con Python](https://github.com/Hualian01/lab2)
+Este laboratorio se centra en la aplicación de técnicas de análisis estadístico mediante Python. El objetivo es explorar y analizar un conjunto de datos reales a través de estadística descriptiva y métodos de visualización.
