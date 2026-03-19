@@ -15,3 +15,6 @@ Este laboratorio explora la creación de interfaces web interactivas utilizando 
 
 ### [2. Estadística y Probabilidad con Python](https://github.com/Hualian01/lab2)
 Este laboratorio se centra en la aplicación de técnicas de análisis estadístico mediante Python. El objetivo es explorar y analizar un conjunto de datos reales a través de estadística descriptiva y métodos de visualización.
+
+### [3. Gráficos con Matplotlib](https://github.com/Hualian01/lab3)
+Este laboratorio se centra en la exploración de distribuciones de probabilidad y la simulación estadística mediante Python. El objetivo es comprender los fundamentos matemáticos que sustentan las metodologías de ciencia de datos y aprendizaje automático.
