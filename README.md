@@ -1,5 +1,5 @@
 # Portafolio de Análisis de Datos
-Hola, soy Rebeca. Aquí comparto mis laboratorios y proyectos de análisis de datos.
+Hola, soy Rebeca. Aquí comparto mis laboratorios y proyectos realizados en la universidad de análisis de datos.
 
 ## Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -11,3 +11,4 @@ Hola, soy Rebeca. Aquí comparto mis laboratorios y proyectos de análisis de da
 
 ## Laboratorios
 ### [1. Gradio](https://github.com/Hualian01/Gradio)
+Este laboratorio explora la creación de interfaces web interactivas utilizando Gradio. El laboratorio demuestra cómo se pueden exponer las funcionalidades de aprendizaje automático a los usuarios finales mediante componentes web intuitivos.
