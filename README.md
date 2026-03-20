@@ -21,3 +21,6 @@ Este laboratorio se centra en la exploración de distribuciones de probabilidad 
 
 ### [4. Seaborn y Regresión](https://github.com/Hualian01/lab4/tree/main)
 Este laboratorio explora la probabilidad empírica mediante simulación estadística. El objetivo es comprender cómo surge el comportamiento probabilístico a partir de la experimentación repetida y cómo convergen las expectativas teóricas con los resultados simulados.
+
+### [5. Relaciones, valores faltantes e imputación](https://github.com/Hualian01/lab5)
+Este laboratorio explora los principios de la inferencia estadística y el modelado de probabilidad. El objetivo es comprender cómo se pueden extraer conclusiones a partir de los datos mediante el razonamiento probabilístico y las técnicas de estimación.
