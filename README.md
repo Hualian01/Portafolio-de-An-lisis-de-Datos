@@ -24,3 +24,6 @@ Este laboratorio explora la probabilidad empírica mediante simulación estadís
 
 ### [5. Relaciones, valores faltantes e imputación](https://github.com/Hualian01/lab5)
 Este laboratorio explora los principios de la inferencia estadística y el modelado de probabilidad. El objetivo es comprender cómo se pueden extraer conclusiones a partir de los datos mediante el razonamiento probabilístico y las técnicas de estimación.
+
+### [6. Aprendizaje Supervisado](https://github.com/Hualian01/lab6)
+Este laboratorio se centra en la aplicación de técnicas de regresión para el modelado predictivo. El objetivo es comprender cómo se pueden modelar matemáticamente las relaciones entre variables para generar predicciones basadas en datos.
