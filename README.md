@@ -20,3 +20,4 @@ Este laboratorio se centra en la aplicación de técnicas de análisis estadíst
 Este laboratorio se centra en la exploración de distribuciones de probabilidad y la simulación estadística mediante Python. El objetivo es comprender los fundamentos matemáticos que sustentan las metodologías de ciencia de datos y aprendizaje automático.
 
 ### [4. Seaborn y Regresión](https://github.com/Hualian01/lab4/tree/main)
+Este laboratorio explora la probabilidad empírica mediante simulación estadística. El objetivo es comprender cómo surge el comportamiento probabilístico a partir de la experimentación repetida y cómo convergen las expectativas teóricas con los resultados simulados.
