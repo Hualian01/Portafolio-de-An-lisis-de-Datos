@@ -3,8 +3,8 @@ Hola, soy Rebeca. Aquí comparto mis laboratorios y proyectos realizados en la u
 
 ## Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Power Bi](https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=codeforces&logoColor=black)
 
 ## Laboratorios
 ### [1. Gradio](https://github.com/Hualian01/Gradio)
@@ -26,3 +26,7 @@ Este laboratorio explora los principios de la inferencia estadística y el model
 Este laboratorio se centra en la aplicación de técnicas de regresión para el modelado predictivo. El objetivo es comprender cómo se pueden modelar matemáticamente las relaciones entre variables para generar predicciones basadas en datos.
 
 ## Proyectos
+### [Proyecto Final de Análisis de Datos](https://github.com/Hualian01/proyectoAnDa/tree/main)
+Este proyecto presenta un análisis exhaustivo de ciencia de datos aplicado al conjunto de datos de apendicitis pediátrica de Regensburg. El objetivo es identificar factores clínicos asociados con la gravedad de la apendicitis y evaluar modelos predictivos para el diagnóstico y la toma de decisiones terapéuticas.
+
+El proyecto integra ingeniería de datos, análisis exploratorio de datos, aprendizaje automático y descubrimiento de patrones para generar información clínicamente relevante.
